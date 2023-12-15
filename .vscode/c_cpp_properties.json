@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\software\\opencv\\opencv_built_by_gcc_on_-windows-master\\build\\include\\**",
+                "D:\\software\\mingw64\\include\\**",
+                "D:\\software\\gtest\\googletest\\googletest\\include\\**"
+
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:/software/mingw64/bin/g++.exe",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
